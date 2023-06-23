@@ -1,0 +1,38 @@
+a{
+    font-family: 'jost';
+    font-size: 18px;
+}
+button {
+    padding: 10px 25px;
+    font-family: 'jost';
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.header__settings button{
+    background-color: transparent;
+    border: 1px solid #454868;
+    
+}
+.button--orange{
+    margin-right: 10 px;
+    background-color: #fd909e;
+    color: #fff;
+    border: none;
+}
+h2{
+    margin: 5px;
+    color: #454868;
+    font-family: 'jost';
+    font-size: 48px;
+    line-height: 45px;
+    letter-spacing: -0,64px;
+}
+p {
+    font-family: 'jost';
+    font-size: 15px;
+    font-weight: 300px; 
+}
+body {
+    margin: 0px;
+}

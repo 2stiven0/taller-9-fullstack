@@ -1,0 +1,31 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 100px;
+}
+.header__navigation {
+    display: flex;
+    align-items: center;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+nav ul a{
+    color: 454868;
+    text-decoration: none;
+}
+.header__settings {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.header__settings div {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: 'jost';
+    font-weight: 300;
+    color: 454868;
+}
