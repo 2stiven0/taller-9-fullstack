@@ -5,6 +5,8 @@
 <p>profesor: cristian patiño </p>
 <h2>punto 1: link figma</h2>
 <a href="https://www.figma.com/file/hrY04JjKIthDB044MaswKP/stiven-cristancho---figmaecercise?type=design&node-id=0%3A1&t=jMOz21IpO3AGnzOi-1">link de figma</a> 
+<h2>link pagina</h2>
+<a href="https://2stiven0.github.io/taller-9-fullstack/">link de pagina wed</a> 
 <h2>Punto: 2 html</h2>
 <img src="./public/images/html.png" alt="html">
 <h2>Punto: 3 css</h2>
