@@ -1,0 +1,29 @@
+.uno {
+    color: red;
+}
+
+.flore {
+    text-decoration:underline overline;  
+}
+
+.qr {
+    color: rgb(63, 165, 63);
+}
+
+.rojo {
+    color: red;
+    
+}
+
+strong {
+    color: red;
+}
+
+.grande {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 2px;
+}
+
+b {
+    color: blue;
+}

@@ -1,0 +1,21 @@
+#section-titles{
+    justify-content: center;
+    margin: 100px 500px;
+
+}
+.section-titles__blue{
+    
+        color: #5862d1;
+        font-family: 'jost';
+        font-size: 35px;
+        line-height: px;
+        letter-spacing: -0,64px;
+ }
+ .section-titles__red{
+    
+    color: #fd0b0b;
+    font-family: 'jost';
+    font-size: 35px;
+    line-height: px;
+    letter-spacing: -0,64px;
+}

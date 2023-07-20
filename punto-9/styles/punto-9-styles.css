@@ -1,0 +1,25 @@
+table { 
+    border: 1px dotted #fff;
+    border-collapse: collapse ;
+    width: 800px;
+    background-color: yellow;
+}
+
+.title {
+    color: red;
+}
+
+.content {
+    border: 1px dotted #fff;
+    border-collapse: collapse;
+}
+
+.content {
+    border: 1px dotted #fff;
+    border-collapse: collapse;
+}
+
+.texto{
+    border-bottom: 1px dotted red ;
+    
+}

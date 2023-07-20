@@ -1,0 +1,28 @@
+.boton {
+    display: flex;
+    margin: 0px 160px;
+    padding: 16px 70px;
+    align-items: center;
+    gap: 30px;
+    background-color: rgb(155, 133, 134);
+}
+
+a {
+    color: #fff;
+}
+
+
+div button {
+    cursor: pointer;
+    color: antiquewhite;
+    padding: 30px 50px;
+    font-weight: bold;
+    background-color: blue;
+}
+
+.text {
+    align-items: center;
+    align-items: center;
+    margin: 0px 200px;
+    text-decoration: none;
+}

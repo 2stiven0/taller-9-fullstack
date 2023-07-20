@@ -9,3 +9,14 @@
 <img src="./public/images/html.png" alt="html">
 <h2>Punto: 3 css</h2>
 <img src="./public/images/css.png" alt="css">
+<h2>Punto: 4 css</h2>
+<img src="./public/images/punto-4.png" alt="css">
+<h2>Punto: 5 css</h2>
+<img src="./public/images/punnto-5.png" alt="css">
+<h2>Punto: 6 css</h2>
+<img src="./public/images/punto-6.png" alt="css">
+<h2>Punto: 7-8 css</h2>
+<img src="./public/images/punto-7-8.png" alt="css">
+<h2>Punto: 9 css</h2>
+<img src="./public/images/punto-9.png" alt="css">
+

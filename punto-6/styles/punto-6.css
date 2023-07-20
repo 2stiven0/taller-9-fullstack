@@ -1,0 +1,14 @@
+#adress{
+    justify-content: center;
+    margin: 100px 500px;
+}
+.adress-amarillo{
+    color: yellow;
+    text-decoration: underline;
+    font-size: 50px;
+    display: contents  ;
+}
+.adress-morado {
+    color: purple;
+    text-decoration: underline;
+}
